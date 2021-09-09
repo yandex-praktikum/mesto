@@ -1,0 +1,9 @@
+.cards__block {
+    margin: 0 auto 20px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 282px;
+}

@@ -1,0 +1,10 @@
+.cards__button {
+    padding: 0;
+    margin-right: 30px;
+    display: block;
+    background-color: white;
+    border: none;
+    width: 22px;
+    height: 19px;
+    align-self: center;
+}

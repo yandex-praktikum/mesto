@@ -1,0 +1,5 @@
+.inline-block {
+    display: flex;
+    align-items: baseline;
+    max-width: 282px;
+}
